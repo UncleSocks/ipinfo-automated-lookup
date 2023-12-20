@@ -58,6 +58,7 @@ elif keywordCount > 1 and keywordList[0] == "not":
         print(entry, end="\n")
 elif keywordCount > 1 and keywordList[0] != "not":
     uniques = set(output)
-    print(uniques)
+    for entry in uniques:
+        print(entry)
 else:
     print("ERROR! Use the '-h' for information on how to use the tool.")
