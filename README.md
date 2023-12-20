@@ -1,7 +1,7 @@
 # ipinfo-automated-lookup
 A Python 3 script that automates IP address lookup on IPInfo and displays the output in IPADDRESS[COUNTRY:ORGANIZATION] format. The script accepts IP address organization keyword/s and outputs the addresses matching the keyword/s (it is also capable of negating your searches). 
 
-**NOTE:** It will require your IPInfo Access Token. 
+**NOTE:** You will need to sign up for IPInfo (FREE) to get your access token.
 
 The script/tool was made to address the need to lookup hundreds of IP addresses during analysis or investigation.
 
