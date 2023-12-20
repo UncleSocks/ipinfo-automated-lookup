@@ -8,6 +8,7 @@ Run the "iplooker.py" Python3 script on your machine; use the "-i" or "--ipList"
 **Example:** iplooker.py -i C:\Users\$Username\Documents\List_of_IP_Addresses.txt
 
 ![image](https://github.com/UncleSocks/ipinfo-automated-lookup/assets/79778613/1c62f71f-1e1e-4144-af8e-80225d49f942)
+
 When running the command, the script will ask for your IPInfo access token and your desired IP address organization keyword/s for searching. Use a space to separate multiple keywords (e.g., AMAZON MICROSOFT GOOGLE). The script will lookup each IP address in your text file list using the IPInfo API and will only output the addresses that matched ANY of the provided organization keywords. In short, the script will show you the list of addresses belonging to the organization/s in your search.
 
 ![image](https://github.com/UncleSocks/ipinfo-automated-lookup/assets/79778613/8b4a0025-33ae-4924-9029-3e80bf5a3e20)
