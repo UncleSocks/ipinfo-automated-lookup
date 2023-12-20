@@ -25,6 +25,8 @@ If you want to simply lookup all IP addresses in your list, use the "-" keyword.
 
 ![image](https://github.com/UncleSocks/ipinfo-automated-lookup/assets/79778613/9278f3eb-c5c7-4ea4-b84e-8830a72286e5)
 
+**Output**
+
 The script will display the result in IPADDRESS[COUNTRY:ORGANIZAITON] format. 
 
 
