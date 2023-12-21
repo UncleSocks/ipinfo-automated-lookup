@@ -3,7 +3,7 @@ A Python 3 script that automates IP address lookup on IPInfo and displays the ou
 
 **NOTE:** You will need to sign up for IPInfo (FREE) to get your access token.
 
-The script/tool was made to address the need to lookup hundreds of IP addresses during analysis or investigation.
+As a SOC Analyst, we are often task to lookup the hundreds IP addresses, provide its country of origin and organization, and verify if the user is connecting to suspicious or unsanctioned addresses. This tool aims to address the slow process of manually inputting hundreds of IP addresses into an OSINT lookup tool, such as IPInfo.
 
 **How to Use**
 
